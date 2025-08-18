@@ -1,0 +1,62 @@
+---
+product-family:
+  title: NetApp解决方案
+  lead: 利用NetApp解决方案转变您的 IT 基础架构，旨在简化运营、增强云管理和优化存储。按感兴趣的领域浏览解决方案或使用搜索栏查找NetApp解决方案中任何位置的内容。
+  summary: 利用NetApp解决方案转变您的 IT 基础架构，旨在简化运营、增强云管理和优化存储。按感兴趣的领域浏览解决方案或使用搜索栏查找NetApp解决方案中任何位置的内容。
+  sidebarlinks:
+  - title: 全部
+    tags: all
+    class: active
+  - title: 自动化
+    tags: automation
+  - title: 数据保护
+    tags: protection
+  - title: DevOps
+    tags: devops
+  - title: 企业应用程序
+    tags: entapps
+  - title: 高可用性
+    tags: ha
+  - title: 工作负载
+    tags: workloads
+  tiles:
+  - title: 了解NetApp解决方案
+    icon: "./media/icon_family_ieops-2302.png"
+    url: intro-family.html
+    summary: 了解NetApp解决方案。
+    tags: all
+  - title: 虚拟化解决方案
+    icon: "./media/icon_virtualization_ieops-2280.png"
+    url: netapp-solutions-virtualization/
+    summary: 在虚拟化环境中提供灵活、可靠、高效的数据基础设施的解决方案。
+    tags: all,automation,ha,workloads
+  - title: 人工智能解决方案
+    icon: "./media/icon_artificial_intelligence_ieops-2282.png"
+    url: netapp-solutions-ai/
+    summary: 可提高您的数据的性能、生产力和保护的解决方案。
+    tags: all,automation,workloads
+  - title: 公共和混合云解决方案
+    icon: "./media/icon_public_hybrid_ieops-2281.png"
+    url: netapp-solutions-cloud/
+    summary: 简化工作负载移动性、提供企业级性能并统一本地和多云环境中的数据管理的解决方案。
+    tags: all,ha,protection,workloads
+  - title: 数据库解决方案
+    icon: "./media/icon_databases_ieops-2283.png"
+    url: netapp-solutions-databases/
+    summary: 解决方案可在主要企业数据库中充分发挥NetApp存储在其中的潜力。
+    tags: all,entapps,ha,protection,workloads
+  - title: SAP 和 SAP HANA 解决方案
+    icon: "./media/icon_sap_hana_ieops-2285.png"
+    url: netapp-solutions-sap/
+    summary: 可最大限度提高 SAP 和 SAP HANA 环境的性能和效率的解决方案。
+    tags: all,entapps,ha,protection,workloads
+  - title: 容器解决方案
+    icon: "./media/icon_containers_ieops-2284.png"
+    url: netapp-solutions-containers/
+    summary: 通过经过验证的部署以及与NetApp存储管理系统和软件的无缝集成，简化和扩展 Kubernetes 环境的解决方案。
+    tags: all,automation,devops,workloads
+  - title: 数据管理解决方案
+    icon: "./media/icon_analytics_ieops-2283.png"
+    url: netapp-solutions-dataops/
+    summary: 用于管理本地和跨云的存储和数据服务的解决方案。
+    tags: all,automation,protection,workloads
