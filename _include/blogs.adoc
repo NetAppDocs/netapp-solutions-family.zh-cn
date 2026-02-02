@@ -1,0 +1,176 @@
+= 
+:allow-uri-read: 
+
+
+[cols="20%, 80%"]
+|===
+| *类别* | *博客标题* 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-CacheBlend-What-is-it-and-why-it-matters/ba-p/463949["KV CacheBlend - 它是什么，以及它为什么重要"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Zero-to-LLM-Inference-in-Five-Minutes/ba-p/461655["五分钟内从零到 LLM 推理"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Zero-to-LLM-Inference-vLLM-Edition/ba-p/461836["零到 LLM 推理 - vLLM 版"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/LLM-Inference-KV-Cache-Offloading-to-ONTAP-with-vLLM-and-GDS/ba-p/461914["LLM 推理 - 使用 vLLM 和 GDS 将 KV 缓存卸载到 ONTAP"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Zero-to-LLM-Inference-with-NVIDIA-NIM-and-Google-Cloud-NetApp-Volumes/ba-p/462253["使用 NVIDIA NIM 和 Google Cloud NetApp Volumes 实现从零到 LLM 推理"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Host-OpenAI-gpt-oss-on-NetApp-AIPod/ba-p/462603["在 NetApp AIPod 上托管 OpenAI gpt-oss"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-Cache-Offloading-When-is-it-Beneficial/ba-p/462900["KV Cache 卸载 - 何时有益？"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-CPU-RAM-vs-storage/ba-p/464463["KV 缓存卸载 - CPU RAM 与存储"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-exploring-the-benefits-of-shared-storage/ba-p/465230["KV 缓存卸载 - 探索共享存储的优势"] 
+
+
+| 虚拟化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-Tools-for-VMware-10-5-Part-1-of-3-Hardening-Your-VMware-Private-Cloud/ba-p/463893["适用于 VMware 10.5 的 ONTAP Tools（第 1 部分，共 3 部分）：强化您的 VMware 私有云"] 
+
+
+| 虚拟化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-Tools-for-VMware-10-5-Part-2-of-3-Protecting-your-VMware-vSphere-and-VCF/ba-p/464072["适用于 VMware 10.5 的 ONTAP 工具（第 2 部分，共 3 部分）：保护您的 VMware vSphere 和 VCF 部署"] 
+
+
+| 虚拟化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-Tools-for-VMware-10-5-Part-3-of-3-Supporting-Your-VMware-Private-Cloud/ba-p/464312["适用于 VMware 10.5 的 ONTAP 工具（第 3 部分，共 3 部分）：支持您的 VMware 私有云"] 
+
+
+| 虚拟化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Simplifying-VM-Mobility-Windows-Admin-Center-Extension-Powered-by-NetApp-Shift/ba-p/464334["简化虚拟机移动性：基于 NetApp Shift Toolkit 的 Windows Admin Center 扩展"] 
+
+
+| 混合云 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Powering-Microsoft-Deployments-with-ONTAP-Scale-what-you-want-when-you-want/ba-p/464395["使用 ONTAP 为 Microsoft 部署提供支持：随时随地按需扩展"] 
+
+
+| SAP 和 SAP HANA | link:https://techcommunity.microsoft.com/blog/sapapplications/sap-hana-data-protection-on-azure-netapp-files-with-snapcenter/3510031/["使用 SnapCenter 在 Azure NetApp Files 上保护 SAP HANA 数据"] 
+
+
+| SAP 和 SAP HANA | link:https://techcommunity.microsoft.com/blog/sapapplications/sap-system-refresh-and-cloning-operations-on-azure-netapp-files-with-snapcenter/4356389/["在 Azure NetApp Files 上使用 SnapCenter 进行 SAP 系统刷新和克隆操作"] 
+
+
+| 数据平台 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Hadoop-Tiering-to-NetApp-NFS-HOT-and-S3-COLD-with-NetApp-XCP-End-to-End-Guide/ba-p/464895/["使用 NetApp XCP 将 Hadoop 分层到 NetApp NFS（HOT）和 S3（COLD）— 端到端指南  自动化"] 
+
+
+| 数据平台 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Modernizing-Data-Architecture-Migrating-HDFS-Hive-to-Iceberg-on-Object-Storage/ba-p/464155/["现代化数据架构：使用 NetApp 将 HDFS Hive 迁移到对象存储上的 Iceberg"] 
+
+
+| 数据平台 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Modern-Data-platform-Databricks-with-NetApp-ONTAP-FSxN-AWS/ba-p/461261/["现代数据平台 – 带 NetApp ONTAP 的 Databricks（FSxN-AWS）"] 
+
+
+| 数据平台 | link:https://www.netapp.com/blog/apache-flink-ontap-high-performance-architecture/["使用 ONTAP 构建高性能 Flink 架构"] 
+
+
+| 虚拟化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-and-VMware-Better-than-ever/ba-p/445780["NetApp 和 VMware – 比以往任何时候都更好"] 
+
+
+| AI | link:++https://www.netapp.com/blog/#t=Blogs&sort=%40publish_date_mktg%20descending&layout=card&f:@facet_language_mktg=["英语"]&f:@facet_soultion_mktg=[AI,Analytics,artificial-intelligence]++[NetApp.com 上的 AI 博客] 
+
+
+| AI | link:https://netapp.io/category/ai-ml/["关于 thePub 的 AI 博客"] 
+
+
+| 虚拟化 | link:https://www.netapp.com/blog/netapp-vmware-cloud-foundation-getting-started["第 1 部分：入门"] 
+
+
+| 虚拟化 | link:https://www.netapp.com/blog/netapp-vmware-cloud-foundation-ontap-principal-storage["第 2 部分：VCF 和 ONTAP 主存储"] 
+
+
+| 虚拟化 | link:https://www.netapp.com/blog/netapp-vmware-cloud-foundation-element-principal-storage["第 3 部分：VCF 和 Element 主体存储"] 
+
+
+| 虚拟化 | link:https://www.netapp.com/blog/netapp-vmware-cloud-foundation-supplemental-storage["第 4 部分：适用于 VMware 和补充存储的 ONTAP Tools"] 
+
+
+| 虚拟化 | link:https://www.netapp.com/blog/vmware-optimize-storage-workloads/["优化任何云中的存储和数据密集型 VMware 工作负载"] 
+
+
+| 虚拟化 | link:https://www.netapp.com/blog/vmware-migrate-workloads-azure/["将存储密集型 VMware 工作负载迁移到 Azure VMware Solution？请先阅读此内容。"] 
+
+
+| 虚拟化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Crash-Consistent-Backup-and-Restore-Operations-for-OpenShift-Virtualization-VMs/ba-p/459417["使用 Trident 25.02 的 OpenShift 虚拟化虚拟机的崩溃一致性备份和还原操作"] 
+
+
+| 虚拟化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Live-Migration-of-VMs-with-OpenShift-Virtualization-on-ROSA-and-Amazon-FSx-for/ba-p/456213["在 ROSA 和 Amazon FSx for NetApp ONTAP 上使用 OpenShift Virtualization 实现虚拟机的实时迁移"] 
+
+
+| 虚拟化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/A-Backup-and-Restore-option-for-VM-data-protection-in-OpenShift-Virtualization/ba-p/452279["OpenShift 虚拟化中 VM 数据保护的备份和还原选项"] 
+
+
+| 虚拟化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-for-OpenShift-Virtualization-VMs-non-disruptive-volume-move-operation-is/ba-p/451941["适用于 OpenShift 虚拟化虚拟机的 ONTAP：您可以保留无中断的卷移动操作"] 
+
+
+| 混合云 | link:https://bluexp.netapp.com/blog/aws-fsxn-blg-migrate-vmware-to-amazon-ec2-iscsi-based-fsx-for-ontap["使用 Amazon EC2 和 Amazon FSx ONTAP iSCSI 协议将 VMware VM 迁移到 AWS"] 
+
+
+| 混合云 | link:https://cloud.netapp.com/blog/azure-blg-optimize-storage-for-cloud-based-vmware-deployments["针对基于云的 VMware 部署优化存储"] 
+
+
+| 混合云 | link:https://cloud.netapp.com/blog/azure-blg-netapp-cloud-offerings-with-azure-vmware-solution["使用基于 NetApp 的云产品开始使用 Azure VMware Solution"] 
+
+
+| 混合云 | link:https://cloud.netapp.com/blog/aws-fsxo-blg-configure-hybrid-cloud-with-fsx-for-netapp-ontap-and-vmware-cloud-on-aws-sddc-using-vmware-hcx["使用 VMware HCX 配置 FSx ONTAP 和 VMware Cloud on AWS SDDC 的混合云"] 
+
+
+| 混合云 | link:https://www.netapp.com/blog/cloud-volumes-service-google-cloud-vmware-engine/["Google Cloud NetApp Volumes 数据存储支持 Google Cloud VMware Engine (NetApp)"] 
+
+
+| 混合云 | link:https://cloud.google.com/blog/products/compute/how-to-use-netapp-cvs-as-datastores-with-vmware-engine["如何将 NetApp 卷用作 Google Cloud VMware Engine (Google) 的数据存储区"] 
+
+
+| 混合云 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/3-2-1-Data-Protection-for-VMware-with-SnapCenter-Plug-in-and-BlueXP-Backup-and/ba-p/446180["使用 SnapCenter 插件和 BlueXP 备份和恢复为 VM 提供 3-2-1 数据保护"] 
+
+
+| 混合云 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Observability-for-the-Modern-Datacenter-with-NetApp-Cloud-Insights/ba-p/447495["借助 NetApp Cloud Insights 实现现代数据中心的可观测性"] 
+
+
+| 数据库 | link:https://aws.amazon.com/blogs/storage/using-netapp-snapcenter-with-amazon-fsx-for-netapp-ontap-to-protect-your-sql-server-workloads/["使用 NetApp SnapCenter 和 Amazon FSx ONTAP 保护您的 SQL Server 工作负载"] 
+
+
+| 数据库 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Modernize-your-Oracle-database-operation-in-hybrid-cloud-with-Amazon-FSx-storage/ba-p/437554["借助 Amazon FSx 存储，在混合云中实现 Oracle 数据库操作的现代化"] 
+
+
+| 数据库 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Hybrid-cloud-database-solutions-with-SnapCenter/ba-p/171061#M5["使用 SnapCenter 的混合云数据库解决方案"] 
+
+
+| 数据库 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Automate-Your-Oracle-Database-Infrastructure-in-the-Hybrid-Cloud/ba-p/167046["在混合云中自动化您的 Oracle 数据库基础架构"] 
+
+
+| 容器 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Simplifying-Trident-Installation-on-Red-Hat-OpenShift-with-the-New-Certified/ba-p/459710["使用新的认证 Trident 操作员简化在 Red Hat OpenShift 上的 Trident 安装"] 
+
+
+| 容器 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Unlock-Seamless-iSCSI-Storage-Integration-A-Guide-to-FSxN-on-ROSA-Clusters-for/ba-p/459124["解锁无缝 iSCSI 存储集成：ROSA 集群上 FSxN 的 iSCSI 指南"] 
+
+
+| 容器 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Amazon-FSx-for-NetApp-ONTAP-with-Red-Hat-OpenShift-Service-on-AWS-ROSA-using/ba-p/456167["使用托管控制面的 Amazon FSx for NetApp ONTAP with Red Hat OpenShift Service on AWS (ROSA)"] 
+
+
+| 容器 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Using-NVMe-TCP-to-consume-ONTAP-storage-for-your-modern-containerized-apps-on/ba-p/453706["使用 NVMe/TCP 为 VMware 上的现代容器化应用消费 ONTAP 存储"] 
+
+
+| 容器 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-as-backend-storage-for-the-integrated-image-registry-in-OpenShift/ba-p/453142["ONTAP 作为 OpenShift Container 平台中集成映像注册表的后端存储"] 
+
+
+| 容器 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-ONTAP-doubles-up-as-storage-for-logs-in-Red-Hat-OpenShift-Container/ba-p/449280["NetApp ONTAP 在 Red Hat OpenShift Container Platform 中兼作日志存储"] 
+
+
+| 容器 | link:https://netapp.io/2021/05/21/docker-rate-limit-issue/["在 Red Hat OpenShift 上安装 NetApp Trident —— 如何解决 Docker 'toomanyrequests' 问题！"] 
+
+
+| 容器 | link:https://blog.netapp.com/accelerate-your-k8s-journey["将 VMware Tanzu 与 ONTAP 结合使用，加快您的 Kubernetes 之旅"] 
+
+
+| 容器 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Kubernetes-on-vSphere-Part-1/ba-p/445634["Kubernetes on vSphere (第 1 部分)"] 
+
+
+| 容器 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Kubernetes-on-vSphere-Part-2/ba-p/445848["Kubernetes on vSphere (第 2 部分)"] 
+
+
+| 容器 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-ONTAP-doubles-up-as-storage-for-logs-in-Red-Hat-OpenShift-Container/ba-p/449280["NetApp ONTAP 在 Red Hat OpenShift Container Platform 中兼作日志存储"] 
+|===

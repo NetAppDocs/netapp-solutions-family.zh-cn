@@ -60,3 +60,8 @@ product-family:
     url: "../netapp-solutions-dataops/index.html"
     summary: 用于管理本地和跨云的存储和数据服务的解决方案。
     tags: all,automation,protection,workloads
+  - title: 演示和博客
+    icon: "./media/icon_blogs_demos-2286_v3.png"
+    url: blogs-display.html
+    summary: 查看各种 NetAp 解决方案的技术演示和博客合集。
+    tags: all,automation,protection,workloads
