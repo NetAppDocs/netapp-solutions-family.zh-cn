@@ -129,12 +129,6 @@
   <block id="895589bd49a02b9781b175f68aba23e4" category="cell"><block ref="895589bd49a02b9781b175f68aba23e4" category="inline-link-macro-rx"></block></block>
   <block id="c069b35ac4a7aee0a4a3d5d757c06779" category="inline-link-macro">使用 Amazon EC2 和 Amazon FSx ONTAP iSCSI 协议将 VMware VM 迁移到 AWS</block>
   <block id="9bbb03cd8f98e3d6d2239a58c4803f4e" category="cell"><block ref="9bbb03cd8f98e3d6d2239a58c4803f4e" category="inline-link-macro-rx"></block></block>
-  <block id="8d7efa937e97b1a8187ff8f122d9732a" category="inline-link-macro">针对基于云的 VMware 部署优化存储</block>
-  <block id="5a6bd3a9e0048284caf2b5f521d90959" category="cell"><block ref="5a6bd3a9e0048284caf2b5f521d90959" category="inline-link-macro-rx"></block></block>
-  <block id="00d07ce14f227693b9dabba2f52b53a5" category="inline-link-macro">使用基于 NetApp 的云产品开始使用 Azure VMware Solution</block>
-  <block id="ac66988ead29ba5f4ed32ec3894527e7" category="cell"><block ref="ac66988ead29ba5f4ed32ec3894527e7" category="inline-link-macro-rx"></block></block>
-  <block id="14d00863ef683631706683292e1e1b3c" category="inline-link-macro">使用 VMware HCX 配置 FSx ONTAP 和 VMware Cloud on AWS SDDC 的混合云</block>
-  <block id="e2d970cd6feb419cd8796624bacf677d" category="cell"><block ref="e2d970cd6feb419cd8796624bacf677d" category="inline-link-macro-rx"></block></block>
   <block id="2cd9dbbc556004ec4c63b9db15995320" category="inline-link-macro">Google Cloud NetApp Volumes 数据存储支持 Google Cloud VMware Engine (NetApp)</block>
   <block id="81d8e8f3d71b597f33ac08980d0f1c96" category="cell"><block ref="81d8e8f3d71b597f33ac08980d0f1c96" category="inline-link-macro-rx"></block></block>
   <block id="ad2161f671cbb71fdc30f584cb59d2d9" category="inline-link-macro">如何将 NetApp 卷用作 Google Cloud VMware Engine (Google) 的数据存储区</block>
@@ -176,7 +170,22 @@
   <block id="49c97f7afaf1bc38d2a4e4723d0e7a1f" category="paragraph">查看以下博客，为将 NetApp ONTAP 存储集成到各种解决方案中提供实用指导和最佳实践。</block>
   <block id="f1e98a26384a5e804c97236b60cebfae" category="open-title">所有博客</block>
   <block id="310dd198f252abd6848253f118de12ba" category="open-title">公共云和混合云</block>
-  <block id="10d42b4bab4fd3114da1e1eae0994d36" category="open-title">SAP 和 SAP HAHA</block>
   <block id="637289fda08b4d4913dfdd067cea3623" category="sidebar">演示和博客</block>
   <block id="1afa3402452aa41c89bab41b818e82ae" category="sidebar">查看各种 NetAp 解决方案的技术演示和博客合集。</block>
+  <block id="9881dd516c35da64f6e230f4abb8109b" category="inline-link-macro">MCP 与 Agent Skills - 有什么区别，为什么它们对 NetApp 很重要？</block>
+  <block id="5782adfa8e6bfb602d1e64a62014a4ab" category="cell"><block ref="5782adfa8e6bfb602d1e64a62014a4ab" category="inline-link-macro-rx"></block></block>
+  <block id="dac08413005c94e598fecde431b78a76" category="inline-link-macro">使用 vLLM、LMCache 和 ONTAP pNFS 进行 KV 缓存卸载</block>
+  <block id="2b655854a44234361f1573946dcacac7" category="cell"><block ref="2b655854a44234361f1573946dcacac7" category="inline-link-macro-rx"></block></block>
+  <block id="e8404df32f316688f02ccd281fffe5ce" category="inline-link-macro">Azure NetApp Files - 简化 Azure 上的 VMware 工作负载</block>
+  <block id="19603292180fad21e0a39a82c1048c57" category="cell"><block ref="19603292180fad21e0a39a82c1048c57" category="inline-link-macro-rx"></block></block>
+  <block id="dc32da64b7845bbbf4827a1513cd8daa" category="inline-link-macro">使用 VMware HCX 配置 FSx for NetApp ONTAP 和 VMware Cloud on AWS SDDC 的混合云</block>
+  <block id="5cba3298e9dabad1b3b3e8b34b0adee5" category="cell"><block ref="5cba3298e9dabad1b3b3e8b34b0adee5" category="inline-link-macro-rx"></block></block>
+  <block id="5a67ac64edd4c6e9c88a89200b48644a" category="inline-link-macro">使用 SQL Server 2025 PolyBase 和 Amazon FSx for NetApp ONTAP S3 接入点降低数据移动成本</block>
+  <block id="d83dd286889451ed5a92d1cf454de797" category="cell"><block ref="d83dd286889451ed5a92d1cf454de797" category="inline-link-macro-rx"></block></block>
+  <block id="c75a85d595077174a08b63443962702f" category="inline-link-macro">使用 SQL Server 2025 PolyBase 和 Amazon FSx for NetApp ONTAP S3 接入点降低数据移动成本（技术深入探讨）</block>
+  <block id="6042dee53b0df06b7b9f0bd4921c284d" category="cell"><block ref="6042dee53b0df06b7b9f0bd4921c284d" category="inline-link-macro-rx"></block></block>
+  <block id="7196e49847ab5f933847e986b4bb66eb" category="inline-link-macro">利用 SQL Server Always On FCI 与 FSx for NetApp ONTAP SnapMirror</block>
+  <block id="fbe145ebd7e668a4f13eb39934772ceb" category="cell"><block ref="fbe145ebd7e668a4f13eb39934772ceb" category="inline-link-macro-rx"></block></block>
+  <block id="c2a9a8d2de43500438acc1d122409393" category="inline-link-macro">使用 FSx for NetApp ONTAP 和 SnapMirror 进行 SQL Server Always On FCI 数据保护</block>
+  <block id="25efac1fab3ae907689cb883e77648b1" category="cell"><block ref="25efac1fab3ae907689cb883e77648b1" category="inline-link-macro-rx"></block></block>
 </blocks>
