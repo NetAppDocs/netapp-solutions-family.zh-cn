@@ -7,6 +7,9 @@
 | *类别* | *博客标题* 
 
 
+| 数据平台 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Architecting-an-Enterprise-Backup-and-Disaster-Recovery-for-Cloudera-with-NetApp/ba-p/467801["使用 NetApp 为 Cloudera 构建企业备份和灾难恢复"] 
+
+
 | AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-tuning-for-long-context/ba-p/467594["用于长上下文的 KV 缓存卸载调优"] 
 
 
