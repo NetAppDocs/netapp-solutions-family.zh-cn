@@ -7,6 +7,9 @@
 | *类别* | *博客标题* 
 
 
+| AI | link:https://community.netapp.com/community/discussion/468325/comparing-kv-cache-offloading-frameworks-for-vllm["比较 vLLM 的 KV 缓存卸载框架"] 
+
+
 | 数据平台 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Architecting-an-Enterprise-Backup-and-Disaster-Recovery-for-Cloudera-with-NetApp/ba-p/467801["使用 NetApp 为 Cloudera 构建企业备份和灾难恢复"] 
 
 
@@ -85,7 +88,7 @@
 | 虚拟化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-and-VMware-Better-than-ever/ba-p/445780["NetApp 和 VMware – 比以往任何时候都更好"] 
 
 
-| AI | link:++https://www.netapp.com/blog/#t=Blogs&sort=%40publish_date_mktg%20descending&layout=card&f:@facet_language_mktg=["英语"]&f:@facet_soultion_mktg=[AI,Analytics,artificial-intelligence]++[NetApp.com 上的 AI 博客] 
+| AI | link:https://www.netapp.com/blog/#q=AI&t=Blogs&sort=%40publish_date_mktg%20descending&layout=card&f:@language=English["NetApp.com 上的 AI 博客"] 
 
 
 | AI | link:https://netapp.io/category/ai-ml/["关于 thePub 的 AI 博客"] 
