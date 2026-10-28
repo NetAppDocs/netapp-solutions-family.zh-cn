@@ -25,6 +25,9 @@ keywords: netapp, solutions, blogs
 | *类别* | *博客标题* 
 
 
+| AI | link:https://community.netapp.com/community/discussion/468506/netapp-onehouse-unifying-data-from-bi-to-ai-across-datacenters-hyperscalers-and-neoclouds["NetApp OneHouse：跨数据中心、超大规模云服务商和 NeoClouds 将数据从 BI 统一到 AI"] 
+
+
 | AI | link:https://community.netapp.com/community/discussion/468325/comparing-kv-cache-offloading-frameworks-for-vllm["比较 vLLM 的 KV 缓存卸载框架"] 
 
 
@@ -228,6 +231,9 @@ keywords: netapp, solutions, blogs
 [cols="20%, 80%"]
 |===
 | *类别* | *博客标题* 
+
+
+| AI | link:https://community.netapp.com/community/discussion/468506/netapp-onehouse-unifying-data-from-bi-to-ai-across-datacenters-hyperscalers-and-neoclouds["NetApp OneHouse：跨数据中心、超大规模云服务商和 NeoClouds 将数据从 BI 统一到 AI"] 
 
 
 | AI | link:https://community.netapp.com/community/discussion/468325/comparing-kv-cache-offloading-frameworks-for-vllm["比较 vLLM 的 KV 缓存卸载框架"] 
